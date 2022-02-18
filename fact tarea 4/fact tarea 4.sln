@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "fact tarea 4", "fact tarea 4\fact tarea 4.vbproj", "{31E968E2-2428-4716-91E5-B6BCD3105F26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31E968E2-2428-4716-91E5-B6BCD3105F26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31E968E2-2428-4716-91E5-B6BCD3105F26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31E968E2-2428-4716-91E5-B6BCD3105F26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31E968E2-2428-4716-91E5-B6BCD3105F26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0F82375-B3BB-46B8-A18F-E4BEF16D8865}
+	EndGlobalSection
+EndGlobal
